@@ -3,6 +3,4 @@
 - 🌱 I’m currently coding a copy of my Wordpress site from scratch as a project.
 - 💞️ I’m looking to build more projects and expand my portfolio!
 - 📫 How to reach me: LinkedIn - https://www.linkedin.com/in/hannahdavies00/ 
-
-<!---
- ✨ Pssst, my background was originally a First in Psychology at the University of Manchester. Check out my mental health start-up at www.roguepsych.com for stories and resources! ✨ 
+-  ✨ Check out my mental health start-up at www.roguepsych.com for stories and resources! ✨ 
