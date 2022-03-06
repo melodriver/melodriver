@@ -5,5 +5,5 @@
 - 🌱 2022 Update - Currently a UX Researcher, in addition to working on a freelance web development project for the Centre for Tendering, and progressing through CS50x.
 - 💻 Completing CS50x and expanding my visible GitHub portfolio. Dark mode supremacist at 🖤
 - 🕹️ Currently playing: Darkest Dungeon + https://www.chess.com/member/melodriver
-- 📫 How to reach me: LinkedIn - https://www.linkedin.com/in/hannahdavies00/ 
+- 📫 How to reach me: Email - hello@roguepsych.com / LinkedIn - https://www.linkedin.com/in/hannahdavies00/ 
 - 🚀 Check out my Psychology 2020 side-hustle at www.roguepsych.com for user-submitted mental health stories and resources. I gained an equity-free £6k+ for us via university pitching and grants, and maintain and update the website solo. We run via AWS and Wordpress and are Cyber Essentials certified as of Jan 2022.
